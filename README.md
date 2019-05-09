@@ -8,6 +8,8 @@
 
 Дата за първото контролно е 9 май (четвъртък) зала 200 ФМИ от 18:15.
 
+> Резултатите може да намерите [тук](lectures/2019-05-09-Swift-4-results-1.md).
+
 ## Домашно №2 е публикувано
 
 Повече информация за домашно №1 може да намерите [тук](https://github.com/SwiftFMI/swift_2018_2019/blob/master/lectures/2019-04-11-Swift-4-%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%BE-2.md). Системата за предаване ще бъде отворена на 14-04-2019. Решения трябва да предадете до 28-04-2019 23:59 (неделя).
@@ -20,14 +22,16 @@
 
 Всички лекции до момента може да намерите на следните адрес:
 
-* [Лекция 1 - История на Swift](https://github.com/SwiftFMI/swift_2017_2018/blob/master/lectures/2018-03-01-Swift-4-%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-1.md)
-* [Лекция 2 - Основи на езика](https://github.com/SwiftFMI/swift_2017_2018/blob/master/lectures/2018-03-08-Swift-4-%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-2.md)
-* [Лекция 3 - Функции](https://github.com/SwiftFMI/swift_2017_2018/blob/master/lectures/2018-03-15-Swift-4-%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-3.md)
-* [Лекция 4 - Структури](https://github.com/SwiftFMI/swift_2017_2018/blob/master/lectures/2018-03-22-Swift-4-%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-4.md)
-* [Лекция 5 - Класове](https://github.com/SwiftFMI/swift_2017_2018/blob/master/lectures/2018-04-12-Swift-4-%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-6.md)
-* [Лекция 6 - Протоколи и разширения](https://github.com/SwiftFMI/swift_2017_2018/blob/master/lectures/2018-04-19-Swift-4-%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-7.md)
-
-> Скоро ще бъдат добавени и към това репо.
+* [Лекция 1 - История на Swift](lectures/2019-02-21-Swift-4-Лекция-1.md)
+* [Лекция 2 - Основи на езика](lectures/2019-02-28-Swift-4-Лекция-2.md)
+* [Лекция 3 - Функции](lectures/2019-03-07-Swift-4-Лекция-3.md)
+* [Лекция 4 - Структури](lectures/2019-03-14-Swift-4-Лекция-4.md)
+* [Лекция 5 - Класове](lectures/2019-03-21-Swift-4-Лекция-5.md)
+* [Лекция 6 - Протоколи и разширения](lectures/2019-03-28-Swift-4-Лекция-6.md)
+* [Лекция 7](lectures/2019-04-04-Swift-4-Лекция-7.md)
+* [Лекция 8](lectures/2019-04-04-Swift-4-Лекция-8.md)
+* [Лекция 9](lectures/2019-04-11-Swift-4-Лекция-9.md)
+* [Лекция 10](lectures/2019-04-18-Swift-4-Лекция-10.md)
 
 ## Анкета
 
